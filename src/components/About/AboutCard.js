@@ -9,8 +9,8 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: 'justify', fontSize: '1.1em' }}>
-            Greetings, fellow tech enthusiasts! I'm <span className="purple">Divyah Mandavia</span>, 
-            hailing from the bustling metropolis of <span className="purple">Mumbai, India</span>.
+            Greetings, fellow tech enthusiasts! I'm <span className="purple">Kushu Shukla</span>, 
+            hailing from the bustling metropolis of <span className="purple">Punjab, India</span>.
             <br />
             <br />
             <FaLaptopCode className="about-icon" /> By day, I'm an <span className="purple">AI/ML Sorcerer</span>, 
